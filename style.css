@@ -97,6 +97,8 @@ header a:hover{
     background: url("images/iot8.jpg") no-repeat 0 ;
     color: #ffffff;
     text-align: center;
+    background-size: cover;
+    
 }
 #showcase h1{
     margin-top: 100px;
